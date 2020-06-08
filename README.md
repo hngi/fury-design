@@ -8,11 +8,11 @@ The main design repository. This is the main entry point to the design libraries
 
 ## Hotel Ideas
 
-- [Sample 1](https://github.com/hng-teamfury-org/design/tree/dev/sample1)
-- [Sample 2](https://github.com/hng-teamfury-org/design/tree/dev/sample2)
-- [~~Sample 3~~](https://github.com/hng-teamfury-org/design/tree/dev/sample3)
-- [Sample 4](https://github.com/hng-teamfury-org/design/tree/dev/sample4)
-- [Sample 5](https://github.com/hng-teamfury-org/design/tree/dev/sample5)
-- [Sample 6](https://github.com/hng-teamfury-org/design/tree/dev/sample6)
+- [Sample 1](https://github.com/hng-teamfury-org/design/tree/dev/samples/sample1)
+- [Sample 2](https://github.com/hng-teamfury-org/design/tree/dev/samples/sample2)
+- [~~Sample 3~~](https://github.com/hng-teamfury-org/design/tree/dev/samples/sample3)
+- [Sample 4](https://github.com/hng-teamfury-org/design/tree/dev/samples/sample4)
+- [Sample 5](https://github.com/hng-teamfury-org/design/tree/dev/samples/sample5)
+- [Sample 6](https://github.com/hng-teamfury-org/design/tree/dev/samples/sample6)
 
 ## Code of Conduct
