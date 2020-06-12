@@ -86,17 +86,19 @@ https://www.figma.com/file/b0EyVgayFJni8m1w4hgyah/hotel-website?node-id=0%3A1 @D
 
 - Another set of designers proceeded with implementing the team's mobile design which was to be utilized by the mobile devs team, The     design group agreed to build and iterate an app that reminds you to wash your hands. The following designers where involved in the app   building; 
 
- 1. GCremez
- 2. kadpeta
- 3. techqueen
- 4. Psalmspire
- 5. Kopta
- 6. Odinaka
- 7. Timzz
- 8. Ben
- 9. BigJoe
-10. Ammie
-11. Iykee
+ 1. @GCremez
+ 2. @kadpeta
+ 3. @techqueen
+ 4. @Psalmspire
+ 5. @Kopta
+ 6. @Odinaka
+ 7. @Timzz
+ 8. @Ben
+ 9. @BigJoe
+10. @Ammie
+11. @Iykee
+12. @Abdulamid
+13. @Adetayo
  
  
  
