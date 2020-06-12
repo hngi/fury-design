@@ -156,6 +156,12 @@ Graphics designer - @Iykee
 
 
 
+ - The Design documentation was compiled by @Afeski
+ 
+ **This documentation, contains all the effective and commited members of the team fury design team.**
+
+
+
 
 
 
